@@ -1,7 +1,7 @@
 ### Oi, eu sou o Enzo 👋
 
 
-- 🔭 Atualmente trabalhando como Analista de Sinistro
-- 🌱 Estudando Java
+- 🔭 Suporte Sistema Contábil
+- 🌱 Estudando Desenvolvimento de Jogos (TowerDefense Temático - Em andamento)
 - 😄 Pronomes Ele / Dele
 - ⚡ Amor assíduo por café, mesmo não tendo muito efeito....
